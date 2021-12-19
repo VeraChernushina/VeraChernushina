@@ -14,5 +14,5 @@
 - Webpack
 
 ## ✉️ Мои контакты: 
-telegram: @verachernushina
-chernushina.vera@gmail.com
+- telegram: [@verachernushina](https://t.me/verachernushina)
+- chernushina.vera@gmail.com
