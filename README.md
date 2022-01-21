@@ -10,7 +10,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeraChernushina&layout=compact&theme=dark)](https://github.com/VeraChernushina/github-readme-stats)
 
-![Codewars](//www.codewars.com/users/Vera%20Chernushina/badges/small)
+[![Codewars](//www.codewars.com/users/Vera%20Chernushina/badges/small)](https://www.codewars.com/users/Vera%20Chernushina)
 
 
 ## 🛠 Мой стек:
