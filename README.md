@@ -8,7 +8,7 @@
 
 [![Vera's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeraChernushina&count_private=true&theme=radical&show_icons=true)](https://github.com/VeraChernushina/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeraChernushina&layout=compact&theme=radica)](https://github.com/VeraChernushina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeraChernushina&layout=compact&theme=dark)](https://github.com/VeraChernushina/github-readme-stats)
 
 ## 🛠 Мой стек:
 - HTML
