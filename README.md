@@ -6,6 +6,8 @@
 - ✍🏻 Стремлюсь писать чистый и понятный код
 - 🧘🏼‍♀️ Занимаюсь йогой и ищу гармонию во всем
 
+[![Vera's GitHub stats](https://github-readme-stats.vercel.app/api?username=VeraChernushina)](https://github.com/VeraChernushina/github-readme-stats)
+
 ## 🛠 Мой стек:
 - HTML
 - CSS
