@@ -25,6 +25,11 @@
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" align="left" width="26" alt="Webpack">]() Webpack
 
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" align="left" width="26" alt="Redux">]() Redux
+
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" width="26" alt="Typescript">]() Typescript
+
+[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="left" width="26" alt="Node.js">]() Node.js
 
 ## ✉️ Мои контакты: 
 - telegram: [@verachernushina](https://t.me/verachernushina)
