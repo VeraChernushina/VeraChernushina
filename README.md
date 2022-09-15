@@ -1,14 +1,12 @@
-# 👋🏻 Привет, меня зовут Вера
+# 👋🏻 Hey, my name is Vera and I'm a JavaScript Developer!
 
-## 👩🏻‍💻 Обо мне:
-- 🎓 Закончила курс Веб-разработчик в [Яндекс.Практикуме](https://practicum.yandex.ru/)
-- ⭐️ Моя цель - сделать мир лучше, а интерфейсы для пользователей - удобнее и доступнее
-- ✍🏻 Стремлюсь писать чистый и понятный код
+## 👩🏻‍💻 About me:
+- 🎓 [Yandex.Praktikum](https://practicum.yandex.ru/) ex-student
 
 [![Codewars](https://www.codewars.com/users/Vera%20Chernushina/badges/small)](https://www.codewars.com/users/Vera%20Chernushina)
 
 
-## 🛠 Мой стек:
+## 🛠 My hard skills:
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" width="26" alt="HTML5">]() HTML5
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" width="26" alt="CSS">]() CSS
@@ -29,6 +27,6 @@
 
 [<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="left" width="26" alt="Node.js">]() Node.js
 
-## ✉️ Мои контакты: 
+## ✉️ Contacts: 
 - telegram: [@verachernushina](https://t.me/verachernushina)
 - chernushina.vera@gmail.com
