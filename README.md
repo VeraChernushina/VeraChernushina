@@ -1,8 +1,5 @@
 # 👋🏻 Hey, my name is Vera and I'm a JavaScript Developer!
 
-## 👩🏻‍💻 About me:
-- 🎓 [Yandex.Praktikum](https://practicum.yandex.ru/) ex-student
-
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=VeraChernushina&theme=light" width="48%" >
 
