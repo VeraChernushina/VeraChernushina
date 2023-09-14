@@ -1,8 +1,5 @@
 # 👋🏻 Hey, my name is Vera and I'm a JavaScript Developer!
 
-### Github Streaks
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VeraChernushina&theme=light" width="48%" >
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeraChernushina&layout=compact)](https://github.com/VeraChernushina/github-readme-stats)
 
 [![Codewars](https://www.codewars.com/users/Vera%20Chernushina/badges/small)](https://www.codewars.com/users/Vera%20Chernushina)
