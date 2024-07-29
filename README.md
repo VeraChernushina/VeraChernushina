@@ -1,23 +1,4 @@
-# 👋🏻 Hey, my name is Vera and I'm a JavaScript Developer!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VeraChernushina&layout=compact)](https://github.com/VeraChernushina/github-readme-stats)
-
-[![Codewars](https://www.codewars.com/users/Vera%20Chernushina/badges/small)](https://www.codewars.com/users/Vera%20Chernushina)
-
-## 🛠 My hard skills:
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" align="left" width="26" alt="HTML5">]()
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" align="left" width="26" alt="CSS">]() 
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" align="left" width="26" alt="JavaScript">]()
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" align="left" width="26" alt="Typescript">]()
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" align="left" width="26" alt="React">]()
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" align="left" width="26" alt="Redux">]()
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" align="left" width="26" alt="Vue">]()
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" align="left" width="26" alt="Git">]()
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" align="left" width="26" alt="Webpack">]()
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" align="left" width="26" alt="Node.js">]()
-[<img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" align="left" width="26" alt="NestJS">](https://github.com/nestjs/nest)
-[<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" align="left" width="26" alt="Docker">](https://github.com/docker)
-<br/>
+Fontend Developer
 
 ## ✉️ Contacts: 
 [<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" align="left" width="26" alt="LinkedIn">](https://www.linkedin.com/in/vera-chernushina/)
